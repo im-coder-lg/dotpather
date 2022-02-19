@@ -1,1 +1,1 @@
-Not contribting, this is [**`@jsjoeio`**'s TS course](https://typescriptcourse.com)
+Not contributing, this is [**`@jsjoeio`**'s TS course](https://typescriptcourse.com)
